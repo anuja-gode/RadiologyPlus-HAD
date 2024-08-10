@@ -1,5 +1,7 @@
 # RadiologyPlus: Tele-Radiology Platform
 
+**Video Link** : https://drive.google.com/file/d/1rw-5apv0dooa25ieWMa--yKxfjxqHh-Z/view?usp=drive_link
+
 **Overview**
 
 RadiologyPlus is a comprehensive tele-radiology platform designed to facilitate seamless collaboration between healthcare professionals. The platform offers robust features for viewing, annotating, and managing medical images, ensuring efficient and secure communication among doctors, radiologists, and patients.
